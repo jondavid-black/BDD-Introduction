@@ -5,4 +5,4 @@ The approach used here is to specificly avoid developing the application.  I use
 focus on the black-box acceptance testing using Cucumber.  I want to clearly demonstrate black box testing by writing my tests in Java for a Go implementation.
 The test is only able to interact with the "system" through the API.
 
-The service being tested is from [Brugona](https://github.com/brunoga/go-webservice-sample).
+The service being tested is from [Brunoga](https://github.com/brunoga/go-webservice-sample).
